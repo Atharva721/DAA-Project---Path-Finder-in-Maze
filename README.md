@@ -1,55 +1,56 @@
-Path Finder in Maze
+🧭 Path Finder in Maze
 
 This project is a Maze Pathfinding Simulation developed using Python.
-It visualizes how a pathfinding algorithm works to navigate from the start point to the goal within a maze, using a simple Tkinter-based user interface.
+It visualizes how a pathfinding algorithm navigates from the start point to the goal within a maze, using a simple Tkinter-based user interface.
 
-Project Overview
+🧩 Project Overview
 
-The project demonstrates:
+This project demonstrates:
 
-Maze representation using matrices
+Maze representation using 2D matrices
 
-Pathfinding algorithm implementation
+Pathfinding algorithm implementation (using backtracking)
 
 Visualization of the maze and path using Tkinter UI
 
-It’s a beginner-friendly project to understand basic Python logic, conditional statements, and GUI programming concepts.
+It’s a beginner-friendly project designed to understand basic Python logic, conditional statements, and GUI programming concepts.
 
-Features
+🚀 Features
 
-Maze Design: Custom maze layout using 2D matrices
+🧱 Maze Design: Custom maze layout using 2D matrices
 
-Pathfinding Algorithm: Finds and highlights the path from start to goal
+🧭 Pathfinding Algorithm: Finds and highlights the path from start to goal
 
-User Interface: Simple and interactive UI built with Tkinter
+🖥️ User Interface: Simple and interactive UI built with Tkinter
 
-Contributors
+👥 Contributors
 Name	Roll No.	Task
 Atharva Jogiji	34	Maze Design
 Vedika Gajjalwar	65	Path Finder Logic
 Bharvi Kakde	20	Maze UI Development
-How to Run the Project
+⚙️ How to Run the Project
+🪄 Step 1: Install Python
 
-Install Python (3.x or above)
-Make sure Python is installed on your system. You can check by running:
+Make sure Python 3.x or above is installed on your system.
+Check installation by running:
 
 python --version
 
+▶️ Step 2: Run the Script
 
-Run the script
 Navigate to the project directory and execute:
 
 python pathfinder.py
 
+🎯 Step 3: Enjoy the Simulation
 
-Enjoy the simulation!
-The Tkinter window will display the maze and visualize the pathfinding process.
+The Tkinter window will display the maze and visualize the pathfinding process step by step.
 
-Example Output
+🖼️ Example Output
 
-A sample window shows the maze where the algorithm finds the shortest path and visually marks it.
+A sample window shows the maze where the algorithm finds the shortest path and visually marks it using color highlights.
 
-Concepts Used
+🧠 Concepts Used
 
 Lists and Matrices in Python
 
@@ -57,8 +58,8 @@ Conditional and Loop Statements
 
 Tkinter GUI Components
 
-Pathfinding Algorithm (e.g., DFS / BFS / Backtracking)
+Pathfinding Algorithm (Backtracking / DFS)
 
-License
+📜 License
 
 This project is created for educational purposes and is open for use and modification.
